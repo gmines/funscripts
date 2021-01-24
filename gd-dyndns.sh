@@ -4,7 +4,7 @@ set -x # verbose output for debug
 # VARS
 mydomain="loftlabs.ca"
 hosts=("prometheus" "vpn" "mx1")
-gdapikey="9u51mB4Foqy_8Krx9hvrBUp6CyRZ5Q76oJ:VELx5mfHYZot9Um2LZLXQn"
+gdapikey=$GDAPIKEY
 logdest="local7.info"
 
 #myip=`curl -s "https://api.ipify.org"`

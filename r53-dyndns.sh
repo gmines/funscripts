@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Variable Declaration - Change These
-HOSTED_ZONE_ID="Z075407025V0AGICHLLX8"
+HOSTED_ZONE_ID=$R53_HOSTED_ZONE_ID
 NAME="kipfel.welcherserver.link."
 TYPE="A"
 TTL=60
