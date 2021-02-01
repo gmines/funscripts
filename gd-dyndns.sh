@@ -2,8 +2,8 @@
 set -x # verbose output for debug
 
 # VARS
-mydomain="loftlabs.ca"
-hosts=("prometheus" "vpn" "mx1")
+mydomain="mydomain.tld"
+hosts=("host1" "host2" "hostn")
 gdapikey=$GDAPIKEY
 logdest="local7.info"
 
