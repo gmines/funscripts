@@ -2,7 +2,7 @@
 
 #Variable Declaration - Change These
 HOSTED_ZONE_ID=$R53_HOSTED_ZONE_ID
-NAME="kipfel.welcherserver.link."
+NAME="host.domain.tld."
 TYPE="A"
 TTL=60
 
